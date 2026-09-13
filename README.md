@@ -59,8 +59,10 @@ I'm a student with hands-on experience in backend development, working primarily
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SurbhiD404&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SurbhiD404&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" width="38%" />
+<img src="https://github-readme-stats.vercel.app/api?username=SurbhiD404&show_icons=true&theme=radical" width="48%" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SurbhiD404&layout=compact&theme=radical" width="38%" alt="Top Languages" />
+
+<sub>📌 Stats cards may take a moment to load — refresh if they appear blank.</sub>
 
 </div>
 
