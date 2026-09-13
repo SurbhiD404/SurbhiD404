@@ -1,4 +1,4 @@
-# Hi, I'm Surbhi Dharvan👋
+# Hi, I'm Surbhi 👋
 
 I'm a student with hands-on experience in **backend development**, working primarily with **Django** and **Django REST Framework (DRF)**, alongside a growing interest in **Machine Learning** and **Data Science**.
 
@@ -18,14 +18,17 @@ I'm a student with hands-on experience in **backend development**, working prima
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![DRF](https://img.shields.io/badge/-Django%20REST%20Framework-A30000?style=flat-square&logo=django&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Scikit--learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-
-## 📌 Featured Projects
-- **[django](https://github.com/SurbhiD404/django)** — Backend project built with Django
-- **[DRINKS](https://github.com/SurbhiD404/DRINKS)** — Python/Django-based application
-- **[Project-Heart-Disease](https://github.com/SurbhiD404/Project-Heart-Disease)** — Machine learning project on heart disease prediction
-- **[notesmaking](https://github.com/SurbhiD404/notesmaking)** — Python-based note-taking utility
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ## 📊 GitHub Stats
 
@@ -39,18 +42,3 @@ I'm a student with hands-on experience in **backend development**, working prima
 
 ---
 *Thanks for visiting my profile!*
-
-<!--
-**SurbhiD404/SurbhiD404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
