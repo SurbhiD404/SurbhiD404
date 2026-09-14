@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Surbhi 👋
+# Hi, I'm Surbhi Dharvan👋
 
 ### Python Developer • Django • REST APIs • Machine Learning
 
