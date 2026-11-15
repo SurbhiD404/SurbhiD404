@@ -2,7 +2,7 @@
 
 # Hi, I'm Surbhi Dharvan👋
 
-### Python Developer • Django • REST APIs • Machine Learning
+### Python Developer • Django • REST APIs • Machine Learning 
 
 *building things, breaking things, and learning how to build them better.*
 
