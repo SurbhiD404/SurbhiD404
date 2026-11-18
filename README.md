@@ -10,7 +10,7 @@
 
 ---
 
-### 🌷 A little about me
+### 🌷 A little about me   
 
 I'm a **Python developer in progress**, currently focused on building applications with **Django and Django REST Framework**.
 
